@@ -1,0 +1,60 @@
+                header {
+                    background-image: url("https://snap-photos.s3.amazonaws.com/img-thumbs/960w/GYEIFHUP3O.jpg");
+                    height: 850px;
+                    width: 100%;
+                    background-position: center;
+                    background-size: cover;
+                    margin-top: -20px;
+                }
+                
+                a {
+                    font-family: 'Rock Salt', cursive;
+                    font-size: 35px;
+                }
+                
+                h1 {
+                    font-family: 'Rock Salt', cursive;
+                    font-size: 80px;
+                    padding: 180px;
+                }
+                
+                h2 {
+                    font-family: 'Rock Salt', cursive;
+                    font-size: 25px;
+                    color: red;
+                    margin: 14px;
+                }
+                
+                p {
+                    font-size: 19px;
+                    font-family: 'Open Sans Condensed', sans-serif;
+                    margin: 12px;
+                    margin-bottom: 10px;
+                }
+                
+                .abouts {
+                    background-image: url("https://snap-photos.s3.amazonaws.com/img-thumbs/960w/HMJ0VFIO08.jpg");
+                    height: 330px;
+                    width: 100%;
+                    background-position: center;
+                    background-size: cover;
+                    margin-top: -20px;
+                }
+                
+                h3 {
+                    font-size: 35px;
+                    font-family: 'Rock Salt', cursive;
+                    color: green;
+                    margin: 40px;
+                    text-align: center;
+                }
+                
+                .love {
+                    padding: 10px;
+                    margin-bottom: 10px;
+                    margin-left: 120px;
+                    margin-right: 10px;
+                    align-content: center;
+                }
+                
+               
